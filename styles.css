@@ -12,7 +12,7 @@ body {
 header {
   padding: 1rem 6rem;
   color: hsl(298, 61%, 78%);
-  background-color: teal;
+  /* background-color: teal; */
 }
 h1 {
   margin: 0;
